@@ -1,5 +1,10 @@
-<h1 align="center">Hi, I'm NewJong 👋</h1>
+<h1 align="center">Hi, I'm Ruslan 👋</h1>
 <p align="center">Full-stack developer · building recommender systems and AI-powered apps</p>
+<p align="center">📍 Mykolaiv, Ukraine · 🎓 Petro Mohyla Black Sea National University</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ruslan-khoroshev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://t.me/ruslan_khoroshev"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+</p>
 
 ---
 
